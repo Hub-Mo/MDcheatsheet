@@ -68,12 +68,9 @@ __this text__ is strong
 ```
 
 ```javascript
-    function(){
-        if(5 == 5){
-            alert(yeps)
-        }
-        else {nopes}
-    }
+if (x > y){
+    alert("Hello World");
+}
 ```
 
 ```html
@@ -82,9 +79,14 @@ __this text__ is strong
 
 <!-- tables -->
 
-|couch1    |coach 2 |
-|---------|---------|
-|Sicco    | Tim     |
+|couch1    |coach 2 | e-mail |
+|---------|---------|--------|
+|Sicco    | Tim     |becode@becode.be
 
+<!-- task list -->
 
-
+* [x] task 1
+* [] task 2
+* [x] task 4
+* [x] task 5
+* [] task 6
