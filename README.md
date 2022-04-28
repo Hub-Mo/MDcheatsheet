@@ -94,7 +94,7 @@ if (x > y){
 * [] task 6
 
 
-##extra
+## extra
 
-[Advanced cheat sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"visit advand md sheat cheet")
+[Advanced cheat sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "visit advand md sheat cheet")
 
