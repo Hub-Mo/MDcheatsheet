@@ -81,9 +81,9 @@ if (x > y){
 
 <!-- tables -->
 
-|couch1    |coach 2 | e-mail |
-|---------|---------|--------|
-|Sicco    | Tim     |becode@becode.be
+|coa(o)ch1| coa(o)ch2| e-mail |
+|---------|----------|--------|
+|@Sick-0  | @Timmeahj|becode@becode.be|
 
 <!-- task list -->
 
