@@ -83,7 +83,7 @@ if (x > y){
 
 |coa(o)ch1| coa(o)ch2| e-mail |
 |---------|----------|--------|
-|@Sick-0  | @Timmeahj|becode@becode.be|
+|Sick-0   |Timmeahj  |becode@becode.be|
 
 <!-- task list -->
 
